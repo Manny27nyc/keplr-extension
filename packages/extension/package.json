@@ -16,7 +16,7 @@
   "dependencies": {
     "@cosmjs/encoding": "^0.24.0-alpha.25",
     "@cosmjs/launchpad": "^0.24.0-alpha.25",
-    "@cosmjs/proto-signing": "^0.24.0-alpha.25",
+    "@cosmjs/proto-signing": "^0.28.6",
     "@fortawesome/fontawesome-free": "^5.11.2",
     "@keplr-wallet/background": "^0.8.11",
     "@keplr-wallet/common": "^0.8.8",
